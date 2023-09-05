@@ -1,4 +1,4 @@
-package com.example.video_editor_porfolio
+package com.example.prashant_nane_portfolio
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "video_editor_porfolio" "\0"
+            VALUE "FileDescription", "prashant_nane_portfolio" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "video_editor_porfolio" "\0"
+            VALUE "InternalName", "prashant_nane_portfolio" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "video_editor_porfolio.exe" "\0"
-            VALUE "ProductName", "video_editor_porfolio" "\0"
+            VALUE "OriginalFilename", "prashant_nane_portfolio.exe" "\0"
+            VALUE "ProductName", "prashant_nane_portfolio" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

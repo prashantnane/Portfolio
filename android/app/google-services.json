@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609923213326",
+    "project_id": "portfolio-48e21",
+    "storage_bucket": "portfolio-48e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609923213326:android:204f5fc52e9a37e639345f",
+        "android_client_info": {
+          "package_name": "com.example.prashant_nane_portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609923213326-d5nq7dlt1egcihnt6tnntoc951hsap4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4GjGKEi-Lk9hG2jMBc9BJpTnMGaIPUJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609923213326-d5nq7dlt1egcihnt6tnntoc951hsap4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

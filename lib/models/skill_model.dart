@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-class Project {
+class Skill {
   final String title;
-  final String description;
+  final String url;
 
-  const Project({
+  const Skill({
     required this.title,
-    required this.description,
+    required this.url,
   });
 }
