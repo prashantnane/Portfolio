@@ -2,8 +2,6 @@
 
 Welcome to my personal portfolio app! This repository contains the source code for my portfolio, which showcases my projects, skills, and experiences. You can visit the live version [here](https://prashantnane.netlify.app/).
 
-![Portfolio Screenshot](path-to-screenshot.png)
-
 ## Table of Contents
 
 - [About](#about)
