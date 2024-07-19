@@ -1,16 +1,29 @@
-# prashant_nane_portfolio
+# My Portfolio
 
-A new Flutter project.
+Welcome to my personal portfolio app! This repository contains the source code for my portfolio, which showcases my projects, skills, and experiences. You can visit the live version [here](https://prashantnane.netlify.app/).
 
-## Getting Started
+![Portfolio Screenshot](path-to-screenshot.png)
 
-This project is a starting point for a Flutter application.
+## Table of Contents
 
-A few resources to get you started if this is your first Flutter project:
+- [About](#about)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Contact](#contact)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## About
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This portfolio website is designed to provide a comprehensive overview of my professional background, projects, and skills. It's built to be responsive and user-friendly, offering visitors an easy way to learn more about me and my work.
+
+## Features
+
+- **Responsive Design**: Works on all device sizes.
+- **Interactive Elements**: Engaging UI elements.
+- **Project Showcase**: Detailed descriptions and links to my projects.
+- **Contact Form**: Easily get in touch with me.
+
+## Technologies Used
+
+- **Frontend**: Flutter
+- **Hosting**: Netlify
+
